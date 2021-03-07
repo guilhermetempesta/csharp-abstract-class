@@ -1,5 +1,3 @@
-Exemplo de composição de Classes em C#
+Exemplo prático de herança e polimorfismo com classes e métodos abstratos em C#
 
-- Entidades: Client, Product, Order, OrderItem
-
-- Enum: OrderStatus
+- Entidades: TaxPayer, Company, Individual
